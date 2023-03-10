@@ -1,2 +1,6 @@
 #!/bin/bash
-chown betty:holberton *
+chown 
+vincent staff
+vincent staff
+vincent staff
+vincent staff
